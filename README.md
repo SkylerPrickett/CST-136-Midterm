@@ -1,2 +1,4 @@
 # CST-136-Midterm
-.
+My midterm program project for my object-oriented programming class in C++. My project took user input to determine the population percentage of a group of Americans based on ethnicity and and general blood type. My program also gave the option of changing the population of a certain ethnic group to see what the percentage would be if there were more or less of the ethnic group (assuming the blood type population percentages remained relatively the same). In addition to showing these calculations, my program will also demonstrate the use of boolean operator overloads at the end of the program (this does not affect the calculations in any way).
+
+The sources from which I collected my data ,and how I adjusted it for certain calculations , from are included in my program and display upon running.
